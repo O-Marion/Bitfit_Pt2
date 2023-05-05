@@ -21,7 +21,8 @@ Here's a walkthrough of implemented user stories:
 
 ![Bitfit Pt 2](https://user-images.githubusercontent.com/93610563/236582447-793d6ce5-2ec3-4f9d-883d-fa16858b9836.gif)
 
-
+GIF created with ...  
+[Kap](https://getkap.co/) for macOS
 ## Notes
 
 Describe any challenges encountered while building the app.
